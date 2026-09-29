@@ -1,0 +1,58 @@
+{
+    "optimal_k": 4,
+    "total_customers": 10000,
+    "total_features": 10,
+    "n_iter": 19,
+    "wcss": 39456.74405041849,
+    "silhouette_score": 0.19176966447060384,
+    "davies_bouldin_index": 1.791097597447789,
+    "calinski_harabasz_score": 1821.8612473826581,
+    "cluster_sizes": {
+        "0": 2022,
+        "1": 3558,
+        "2": 3266,
+        "3": 1154
+    },
+    "cluster_summary": {
+        "0": {
+            "Count": 2022.0,
+            "Avg_CreditScore": 653.1,
+            "Avg_Age": 36.77,
+            "Avg_Tenure": 4.99,
+            "Avg_Balance": 120418.46,
+            "Avg_NumProducts": 2.13,
+            "Zero_Balance_Pct": 0.0,
+            "Share_%": 20.2
+        },
+        "1": {
+            "Count": 3558.0,
+            "Avg_CreditScore": 650.61,
+            "Avg_Age": 36.09,
+            "Avg_Tenure": 5.0,
+            "Avg_Balance": 120590.63,
+            "Avg_NumProducts": 1.0,
+            "Zero_Balance_Pct": 0.0,
+            "Share_%": 35.6
+        },
+        "2": {
+            "Count": 3266.0,
+            "Avg_CreditScore": 648.94,
+            "Avg_Age": 35.93,
+            "Avg_Tenure": 5.11,
+            "Avg_Balance": 85.28,
+            "Avg_NumProducts": 1.82,
+            "Zero_Balance_Pct": 99.76,
+            "Share_%": 32.7
+        },
+        "3": {
+            "Count": 1154.0,
+            "Avg_CreditScore": 650.25,
+            "Avg_Age": 59.88,
+            "Avg_Tenure": 4.81,
+            "Avg_Balance": 79751.14,
+            "Avg_NumProducts": 1.32,
+            "Zero_Balance_Pct": 31.11,
+            "Share_%": 11.5
+        }
+    }
+}

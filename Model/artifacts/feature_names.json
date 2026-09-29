@@ -1,0 +1,12 @@
+[
+    "CreditScore",
+    "Age",
+    "Tenure",
+    "Balance",
+    "NumOfProducts",
+    "HasZeroBalance",
+    "Gender_enc",
+    "Geo_France",
+    "Geo_Germany",
+    "Geo_Spain"
+]
